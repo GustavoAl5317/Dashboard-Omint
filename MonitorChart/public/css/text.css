@@ -1,0 +1,22 @@
+.text-chart 
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+    color: #837e83;
+    font-size: 50%;
+}
+
+.text-page {
+    color:#287bff;
+}
+
+#totalAtendidasCounter {
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    color: #787878; /* Cor do texto */
+    padding: 5px 10px; /* Espaçamento interno */
+    border-radius: 5px; /* Borda arredondada */
+    margin-bottom: 10px; /* Espaçamento inferior */
+}
